@@ -3,8 +3,8 @@ Repositorio Actividad Git/Github
 
 Estados del Git:
 
-1. Working Directory
+1. **Working Directory**
 
-2. Staging Area
+2. **Staging Area**
 
-3. Repository
+3. **Repository**
